@@ -1,0 +1,267 @@
+Part 1(1-20)
+
+mkdir new2
+mkdir new3
+mkdir new4
+print("hello world")
+
+pwd
+ls
+clear
+cd F://
+pwd
+ls
+clear
+
+mkdir "command line practice"
+mkdir command_line
+mkdir command line practice
+cd command_line
+pwd
+ls
+
+touch new_document.txt
+touch hello.py
+touch hello.java
+
+cd ..
+cd "command line practice"
+touch new_file.py
+cd..
+cd command_line/
+ls
+
+rm new_document.txt
+ls
+rm hello.java
+ls
+
+cd ..
+rm -rf command_line/
+rm -rf "command line practice"/
+
+pwd
+mkdir "new python course"
+cd "new python course"
+clear
+
+touch hello.py
+code hello.py
+
+print("hello world")
+
+python hello.py
+
+pwd
+cd F://
+cd~
+clear
+
+cd F://
+ls
+clear
+mkdir "commnand line practice 2"
+cd "commnand line practice 2"/
+touch new_file.py
+ls
+new_file.py
+
+code new_file.py
+code new_file2.py
+rm new_file2.py
+clear
+
+ls
+mv new_file.py file1.py
+ls
+code file1.py
+clear
+
+mkdir new_folder
+lsmv file1.py./new_folder
+ls
+clear
+
+cd new_folder/
+ls
+mv file1.py
+ls
+cd ..
+ls
+clear
+
+cp file1.py ./new_folder/
+ls
+cd new_folder/
+ls
+clear
+
+cd ..
+ls
+code file1.py
+
+print("hello world")
+
+python file1.py
+
+upwrd arrow
+
+print("harshit vashistha")
+
+
+print()
+
+print("Hello World")
+print('Hello World')
+
+print("hello world")
+
+python print_func.py
+
+print("hello world")
+print('hello world')
+python print_func.py
+
+print()
+
+print("hello 'world' world")
+python print_func.py
+
+print("hello 'world' world")
+print('hello "world" world')
+python print_func.py
+
+print("hello 'world' world")
+print('hello "world" world')
+print('hello 'world' world')
+python print_func.py
+
+print("hello 'world' world")
+print('I'm harshit')
+python print_func.py
+
+print("hello 'world' world")
+print("I'm harshit")
+python print_func.py
+
+print("hello "world" world")
+print("I'm harshit")
+python print_func.py
+
+
+print("hello "world" world")
+python print_func.py
+
+print("hello \"world\" world")
+python print_func.py
+
+print("hello \"world\" world")
+print('I\'m harshit')
+
+print("line A")
+print("line B")
+python print_func.py
+
+print("line A\nline B")
+python print_func.py
+
+print("line A\nline B\n line C")
+python print_func.py
+
+print("name\tHarsht")
+print("this is \backslash")
+
+print("this is backslash\")
+
+print("this is backslash\\")
+print("this is backslash\\\\")
+print("hell\blo")
+
+# this is comment
+print("line A\nline B \n line C") # /n is for new line
+# /t is for tab
+print("ame\tHarshit")
+print("this is double backlash\\\\") # \\ is for backlash
+print("hell\blo")
+#comments
+#print
+
+# output : line A \n line B
+print("line A \\n line B")
+print("line B \\t line b")
+print("this is 4 backlash \\\\\\\\")
+#output : \" \'
+print(" \\\" \\\' ")
+# \' - '(b)
+#\\ - \ (a)
+# \\\' - \'
+
+print("this is \\\\ double backlash")
+print("these are /\\/\\/\\/\\ mountains")
+print("he is\tawesome")
+print(" \\\" \\n \\t \\\' ")
+#\" = "
+# \\ = \
+# \\\" = \"
+
+print(r"line A \" line B")
+
+print("\U0001f602")
+print("\U0001f604")
+print("\U0001f618")
+
+print(2+3*4)
+print(2/4)
+print(4/2)
+print(4//2)
+print(2//4)
+print(2**3)
+print(2**0.5)
+print(round(2**0.5,4))
+print(2*3/2*6-4(3-4/2))
+print(3%2)
+print((2+3)/2)
+print((2+3)*5/2%6)
+print(12.5%6)
+print(2*3*2)
+print(2**9)
+
+# number1 = 2
+print(number1)
+number1 = 4
+print(number1)
+string,number
+name = "harshit"
+print(name)
+name - 123
+print(name)
+#rule one
+# 1number = 4
+# letter,_ ..........first leter
+# _name ="harshit"
+#u1sd = 34
+user_one_name = "Rohit" #snake case writing
+useronename = "Mohit" # camel case writing
+
+# ******summary of chapter one********
+
+#print function
+print("hello hello")
+#escape sequence
+# escape sequence as normal text
+# python as calculator
+# variables
+# naming rules for variables
+# convention for variable naming
+
+#strings
+# collection of characters inside single quotes
+
+first_name = "harshit"
+last_name = " vashistha"
+full_name = first_name + " " + last_name
+print(full_name)
+print(first_name + 3) error
+# print(first_name +"3") no error
+# print(first_name + str(3)) # no error
+print(first_name * 3)
